@@ -8,7 +8,7 @@ I’m a passionate undergraduate student who enjoys building real-world systems 
 
 ---
 
-## 🧠 What I Do
+## 💡 What I Do
 💻 Build web and system-based applications  
 📊 Work on academic and real-world projects  
 🤖 Explore Artificial Intelligence concepts  
@@ -29,7 +29,7 @@ A system for booking and managing home services with admin and service provider 
 ## 🛠️ Tech Stack
 💻 Languages: Python · Java · JavaScript · TypeScript  
 🌐 Frontend: HTML · CSS · React · Next.js · Tailwind CSS  
-🧠 Backend: Django · Express.js · PHP · Python  
+🔧 Backend: Django · Express.js · PHP · Python  
 🗄️ Database: MongoDB · MySQL · PostgreSQL  
 ⚙️ Tools: Git · GitHub · VS Code
 
