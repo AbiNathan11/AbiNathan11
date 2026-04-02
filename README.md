@@ -1,64 +1,31 @@
-# Hey, I'm Abiramy Thirulinganathan 👋
+# Hey, I'm Abiramy Thirulinganathan
 
-CS Undergraduate at UWA | Aspiring Software Developer  
+CS Undergraduate at UWA | Aspiring Software Developer
 
+I am a motivated undergraduate student focused on building real-world systems and continuously learning modern technologies. I aim to develop practical applications while strengthening my skills in software development and emerging technologies.
 
-I’m a passionate undergraduate student who enjoys building real-world systems and learning new technologies. I focus on developing practical applications and continuously improving my skills in software development and emerging fields like AI.
+## What I Do
+- Build web and system-based applications  
+- Work on academic and real-world projects  
+- Explore Artificial Intelligence concepts  
+- Learn modern technologies and tools  
+- Improve problem-solving and development skills  
 
----
-
-## 🧠 What I Do
-💻 Build web and system-based applications  
-📊 Work on academic and real-world projects  
-🤖 Explore Artificial Intelligence concepts  
-🛠️ Learn modern technologies and tools  
-🚀 Improve problem-solving and development skills  
-
----
-
-## 🏗️ Projects
-
-🛠️ ServiceHub – Home Service Management System  
+## Projects
+ServiceHub – Home Service Management System  
 A system for booking and managing home services with admin and service provider workflow.  
 
+## Tech Stack
+Languages: Python · Java · JavaScript · TypeScript  
+Frontend: HTML · CSS · React · Next.js · Tailwind CSS  
+Backend: Django · Express.js · PHP · Python  
+Database: MongoDB · MySQL · PostgreSQL  
+Tools: Git · GitHub · VS Code  
 
----
+## Currently Learning
+Artificial Intelligence fundamentals  
+Full-stack development  
+System design and data handling  
 
-## 🛠️ Tech Stack
-
-💻 Languages: Python · Java · JavaScript · TypeScript  
-🌐 Frontend: HTML · CSS · React · Next.js · Tailwind CSS  
-🧠 Backend: Django · Express.js · PHP · Python  
-🗄️ Database: MongoDB · MySQL · PostgreSQL  
-⚙️ Tools: Git · GitHub · VS Code
-
----
-
-## 🌱 Currently Learning
-🤖 Artificial Intelligence basics  
-🌐 Full-stack development  
-📊 System design & data handling  
-
----
-
-## 📫 Let's Connect
-💼 LinkedIn: http://linkedin.com/in/abiramy-thirulinganathan  
-
----
-
-✨ Thanks for visiting my GitHub profile! Feel free to explore my projects 😊
-
-<!--
-**AbiNathan11/AbiNathan11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+LinkedIn: http://linkedin.com/in/abiramy-thirulinganathan
