@@ -1,8 +1,7 @@
 # Hey, I'm Abiramy Thirulinganathan 👋
 
-🎓 IT Undergraduate at UWA  
-💻 Aspiring Software Developer  
-📍 Sri Lanka  
+CS Undergraduate at UWA | Aspiring Software Developer  
+
 
 I’m a passionate undergraduate student who enjoys building real-world systems and learning new technologies. I focus on developing practical applications and continuously improving my skills in software development and emerging fields like AI.
 
