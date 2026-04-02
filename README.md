@@ -26,10 +26,11 @@ A system for booking and managing home services with admin and service provider 
 
 ## 🛠️ Tech Stack
 
-💻 Languages: Python · Java · JavaScript  
-🌐 Web: HTML · CSS  
-🗄️ Database: MongoDB  
-⚙️ Tools: Git  
+💻 Languages: Python · Java · JavaScript · TypeScript  
+🌐 Frontend: HTML · CSS · React · Next.js · Tailwind CSS  
+🧠 Backend: Django · Express.js · PHP · Python  
+🗄️ Database: MongoDB · MySQL · PostgreSQL  
+⚙️ Tools: Git · GitHub · VS Code
 
 ---
 
