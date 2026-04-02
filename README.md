@@ -3,6 +3,7 @@
 CS Undergraduate at UWA | Aspiring Software Developer  
   
 
+
 I’m a passionate undergraduate student who enjoys building real-world systems and learning new technologies. I focus on developing practical applications and continuously improving my skills in software development and emerging fields like AI.
 
 ---
@@ -26,11 +27,11 @@ A system for booking and managing home services with admin and service provider 
 ---
 
 ## 🛠️ Tech Stack
-
-💻 Languages: Python · Java · JavaScript  
-🌐 Web: HTML · CSS  
-🗄️ Database: MongoDB  
-⚙️ Tools: Git  
+💻 Languages: Python · Java · JavaScript · TypeScript  
+🌐 Frontend: HTML · CSS · React · Next.js · Tailwind CSS  
+🧠 Backend: Django · Express.js · PHP · Python  
+🗄️ Database: MongoDB · MySQL · PostgreSQL  
+⚙️ Tools: Git · GitHub · VS Code
 
 ---
 
