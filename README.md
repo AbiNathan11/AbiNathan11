@@ -20,42 +20,38 @@ I'm a **Computer Science undergraduate** passionate about building scalable full
 ## 🚀 Featured Projects
 
 ### 📅 University Semester Timetable Generation & Scheduling System
-*Feb 2026*
 
 `React.js (Vite)` `Django REST Framework` `MySQL` `JWT Authentication`
 
-A web-based timetable management system to automate semester timetable generation while minimizing lecturer, classroom, and scheduling conflicts.
+A web-based system that automates semester timetable generation and avoids scheduling conflicts.
 
-- Implemented role-based access control for administrators, lecturers, and students with secure JWT authentication and protected routes
-- Designed modules for course, subject, lecturer, and classroom management with automatic timetable generation and clash detection
-- Integrated React frontend with Django REST APIs and MySQL database following MVC architecture and industry standards
+- Role-based access for admins, lecturers, and students
+- Automatic timetable generation with clash detection
+- React frontend integrated with Django REST APIs
 
 ---
 
-### 🧾 Spendly — Smart Budget & Expense Tracker Mobile Application
-*Dec 2025*
+### 🧾 Spendly — Smart Budget & Expense Tracker
 
-`React Native (Expo)` `Node.js` `Express.js` `Supabase Auth` `Supabase PostgreSQL`
+`React Native (Expo)` `Node.js` `Express.js` `Supabase`
 
-A cross-platform mobile application that helps users track daily expenses, manage budgets, and improve financial discipline through a habit-based budgeting system.
+A cross-platform mobile app that helps users track expenses and manage budgets.
 
-- Implemented secure user authentication and profile management using Supabase Auth, ensuring safe and seamless access across devices
-- Designed features including daily spend tracking, digital envelope budgeting, bill reminders, and monthly spending reports with an intuitive user interface
-- Integrated Supabase PostgreSQL database and backend API services for efficient real-time data management and scalable performance
-- Applied component-based architecture and reusable UI design principles using React Native (Expo) to create a clean, responsive, user-friendly mobile experience
+- Daily spend tracking and digital envelope budgeting
+- Secure authentication with Supabase Auth
+- Bill reminders and monthly spending reports
 
 ---
 
 ### 🛠️ ServiceHub — Home Service Management System
-*Apr 2025 – Sep 2025*
 
-`React.js (Vite)` `PHP 8.x` `MySQL` `PDO` `JWT Authentication` `PHPMailer`
+`React.js (Vite)` `PHP` `MySQL` `JWT Authentication`
 
-A full-stack Home Service Management System with role-based dashboards for Customers, Service Providers, and Admins. [🔗 Live demo](https://home-management-system-frontend.vercel.app)
+A full-stack platform for booking and managing home services. [🔗 Live demo](https://home-management-system-frontend.vercel.app)
 
-- Built RESTful APIs using PHP and MySQL (PDO) to manage bookings, users, reviews, notifications, and provider verification workflows
-- Implemented JWT authentication, email OTP verification using PHPMailer, and secure input validation for enhanced application security
-- Developed features including real-time booking, provider assignment, booking tracking, ratings/reviews, and admin management functionalities
+- Role-based dashboards for customers, providers, and admins
+- RESTful PHP/MySQL APIs for bookings, reviews, and notifications
+- JWT auth with email OTP verification
 
 ---
 
@@ -63,11 +59,10 @@ A full-stack Home Service Management System with role-based dashboards for Custo
 
 `TypeScript` `React` `Node.js`
 
-A full accommodation/booking platform split into dedicated frontend, backend, and admin apps — actively in development.
+A booking platform for accommodations, split into frontend, backend, and admin apps.
 
-- Separate admin dashboard for managing listings and bookings
-- Modular architecture split across three repos (frontend / backend / admin)
-- Continuously updated with new features
+- Admin dashboard for managing listings and bookings
+- Modular architecture across three repos
 
 ---
 
@@ -75,7 +70,7 @@ A full accommodation/booking platform split into dedicated frontend, backend, an
 
 `PHP` `MySQL`
 
-A system to help coordinate and manage disaster response information and resources.
+A system to help coordinate and manage disaster response information.
 
 ---
 
