@@ -19,6 +19,46 @@ I'm a **Computer Science undergraduate** passionate about building scalable full
 
 ## 🚀 Featured Projects
 
+### 📅 University Semester Timetable Generation & Scheduling System
+*Feb 2026*
+
+`React.js (Vite)` `Django REST Framework` `MySQL` `JWT Authentication`
+
+A web-based timetable management system to automate semester timetable generation while minimizing lecturer, classroom, and scheduling conflicts.
+
+- Implemented role-based access control for administrators, lecturers, and students with secure JWT authentication and protected routes
+- Designed modules for course, subject, lecturer, and classroom management with automatic timetable generation and clash detection
+- Integrated React frontend with Django REST APIs and MySQL database following MVC architecture and industry standards
+
+---
+
+### 🧾 Spendly — Smart Budget & Expense Tracker Mobile Application
+*Dec 2025*
+
+`React Native (Expo)` `Node.js` `Express.js` `Supabase Auth` `Supabase PostgreSQL`
+
+A cross-platform mobile application that helps users track daily expenses, manage budgets, and improve financial discipline through a habit-based budgeting system.
+
+- Implemented secure user authentication and profile management using Supabase Auth, ensuring safe and seamless access across devices
+- Designed features including daily spend tracking, digital envelope budgeting, bill reminders, and monthly spending reports with an intuitive user interface
+- Integrated Supabase PostgreSQL database and backend API services for efficient real-time data management and scalable performance
+- Applied component-based architecture and reusable UI design principles using React Native (Expo) to create a clean, responsive, user-friendly mobile experience
+
+---
+
+### 🛠️ ServiceHub — Home Service Management System
+*Apr 2025 – Sep 2025*
+
+`React.js (Vite)` `PHP 8.x` `MySQL` `PDO` `JWT Authentication` `PHPMailer`
+
+A full-stack Home Service Management System with role-based dashboards for Customers, Service Providers, and Admins. [🔗 Live demo](https://home-management-system-frontend.vercel.app)
+
+- Built RESTful APIs using PHP and MySQL (PDO) to manage bookings, users, reviews, notifications, and provider verification workflows
+- Implemented JWT authentication, email OTP verification using PHPMailer, and secure input validation for enhanced application security
+- Developed features including real-time booking, provider assignment, booking tracking, ratings/reviews, and admin management functionalities
+
+---
+
 ### 🏠 Stayzo — Accommodation Booking Platform
 
 `TypeScript` `React` `Node.js`
@@ -28,29 +68,6 @@ A full accommodation/booking platform split into dedicated frontend, backend, an
 - Separate admin dashboard for managing listings and bookings
 - Modular architecture split across three repos (frontend / backend / admin)
 - Continuously updated with new features
-
----
-
-### 🧾 Spendly — Smart Expense Tracker
-
-`TypeScript` `Mobile App`
-
-A smart expense tracker mobile app that helps users track and manage their spending.
-
-- Clean, mobile-first UI for logging expenses
-- Built to help users understand spending patterns
-
----
-
-### 🛠️ ServiceHub — Home Service Management System
-
-`PHP` `React` `Vite` `JWT` `MySQL`
-
-A system for booking and managing home services with dedicated admin and service-provider workflows. [🔗 Live demo](https://home-management-system-frontend.vercel.app)
-
-- JWT-authenticated PHP API with PDO + MySQL
-- React + Vite single-page frontend for bookings
-- Role-based flows for admins and service providers
 
 ---
 
@@ -130,17 +147,17 @@ My personal developer portfolio website. [🔗 Live site](https://my-portfolio-g
 <div align="center">
 
 <a href="http://linkedin.com/in/abiramy-thirulinganathan">
-  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LINKEDIN-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/AbiNathan11">
-  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GITHUB-3B0764?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="mailto:abiramythirulinganathan@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto:your.email@example.com">
+  <img src="https://img.shields.io/badge/EMAIL-A855F7?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B2A4A,100:0B1120&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,50:5B21B6,100:1E1033&height=120&section=footer" width="100%"/>
 
 </div>
