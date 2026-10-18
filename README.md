@@ -19,6 +19,42 @@ I'm a **Computer Science undergraduate** passionate about building scalable full
 
 ## 🚀 Featured Projects
 
+### 🎓 OpenLearn — AI-Powered E-Learning Platform with RAG Architecture
+
+`React 19 (Vite)` `Node.js` `Express.js` `MongoDB` `OpenAI` `Pinecone (Vector DB)` `Stripe`
+
+A full-stack learning platform featuring a Retrieval-Augmented Generation (RAG) AI assistant grounded in course materials. [🔗 Live demo](https://openlearn-frontend.vercel.app)
+
+- **RAG Architecture & Semantic Search:** Embeddings pipeline with Pinecone vector DB & OpenAI for hallucination-free, context-aware student Q&A
+- **Role-Based Portals:** Dedicated dashboards for students, instructors, and admins with analytics and course publishing
+- **Interactive Learning & Monetization:** Integrated Stripe checkout, automated PDF certificate generation, and dynamic quizzes
+
+---
+
+### 🏠 Stayzo — Automated Tenant & Property Intelligence System
+
+`Next.js 15` `TypeScript` `Node.js` `PostgreSQL (Prisma)` `AWS (S3 & RDS)` `Socket.io` `OpenAI`
+
+An AI-powered property rental platform built for Pearl House Transit Hotel to simplify leasing and eliminate rental fraud.
+
+- **360° Virtual Tours & Tenant Portal:** Immersive remote property exploration and smart visit scheduling
+- **Smart Agreement Hub:** Digital lease generator with bi-lateral e-signatures and real-time mobile QR sync
+- **AI & Neighborhood Intelligence:** Multilingual chat translation (OpenAI) and nearby landmark discovery (Google Maps API)
+
+---
+
+### 🛠️ ServiceHub — Home Service Management System
+
+`React.js (Vite)` `PHP` `MySQL` `JWT Authentication`
+
+A full-stack platform for booking and managing home services. [🔗 Live demo](https://home-management-system-frontend.vercel.app)
+
+- Role-based dashboards for customers, providers, and admins
+- RESTful PHP/MySQL APIs for bookings, reviews, and notifications
+- JWT auth with email OTP verification
+
+---
+
 ### 📅 University Semester Timetable Generation & Scheduling System
 
 `React.js (Vite)` `Django REST Framework` `MySQL` `JWT Authentication`
@@ -42,31 +78,6 @@ A cross-platform mobile app that helps users track expenses and manage budgets.
 - Bill reminders and monthly spending reports
 
 ---
-
-### 🛠️ ServiceHub — Home Service Management System
-
-`React.js (Vite)` `PHP` `MySQL` `JWT Authentication`
-
-A full-stack platform for booking and managing home services. [🔗 Live demo](https://home-management-system-frontend.vercel.app)
-
-- Role-based dashboards for customers, providers, and admins
-- RESTful PHP/MySQL APIs for bookings, reviews, and notifications
-- JWT auth with email OTP verification
-
----
-
-### 🏠 Stayzo — Automated Tenant & Property Intelligence System
-
-`Next.js 15` `TypeScript` `Node.js` `PostgreSQL (Prisma)` `AWS (S3 & RDS)` `Socket.io` `OpenAI`
-
-An AI-powered property rental platform built for Pearl House Transit Hotel to simplify leasing and eliminate rental fraud.
-
-- **360° Virtual Tours & Tenant Portal:** Immersive remote property exploration and smart visit scheduling
-- **Smart Agreement Hub:** Digital lease generator with bi-lateral e-signatures and real-time mobile QR sync
-- **AI & Neighborhood Intelligence:** Multilingual chat translation (OpenAI) and nearby landmark discovery (Google Maps API)
-
----
-
 
 ### 🚨 Disaster Management System
 
@@ -113,12 +124,14 @@ My personal developer portfolio website. [🔗 Live site](https://abiramy-portfo
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
 
-**Database & ORM**
+**Database & AI / ORM**
 <br>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+<img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
 
 **Tools**
 <br>
@@ -134,7 +147,7 @@ My personal developer portfolio website. [🔗 Live site](https://abiramy-portfo
 
 | | Focus Area | What I'm Exploring |
 |:---:|---|---|
-| 🤖 | **Artificial Intelligence** | Core AI/ML concepts and how to apply them in real products |
+| 🤖 | **Artificial Intelligence** | Core AI/ML concepts, RAG pipelines & vector databases in real products |
 | 🌐 | **Full-Stack Development** | Deeper end-to-end skills across frontend, backend & deployment |
 | 📊 | **System Design** | Data handling, scalability, and clean architecture patterns |
 
