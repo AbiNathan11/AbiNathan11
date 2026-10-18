@@ -55,14 +55,17 @@ A full-stack platform for booking and managing home services. [🔗 Live demo](h
 
 ---
 
-### 🏠 Stayzo — Accommodation Booking Platform
+### 🏠 Stayzo — Automated Tenant & Property Intelligence System
 
-`TypeScript` `React` `Node.js`
+`Next.js 15` `TypeScript` `Node.js` `PostgreSQL (Prisma)` `AWS (S3 & RDS)` `Socket.io` `OpenAI API`
 
-A booking platform for accommodations, split into frontend, backend, and admin apps.
+An AI-powered property rental platform built for Pearl House Transit Hotel to simplify leasing and eliminate rental fraud.
 
-- Admin dashboard for managing listings and bookings
-- Modular architecture across three repos
+- **360° Virtual Property Exploration:** Immersive virtual walkthroughs enabling remote tenant inspection
+- **Smart Agreement Hub:** Conversational legal lease generator with bi-lateral digital e-signatures and real-time mobile QR sync
+- **Tenant & Role-Based Portals:** Dedicated dashboard for browsing verified listings, booking visits, and managing digital agreements
+- **AI & Cloud Infrastructure:** Multilingual chat translation (OpenAI), image metadata fraud detection, and cloud hosting via AWS S3 & RDS
+- **Neighborhood Intelligence:** Nearby landmark discovery and environmental noise level analysis via Google Maps & Places API
 
 ---
 
@@ -103,17 +106,20 @@ My personal developer portfolio website. [🔗 Live site](https://abiramy-portfo
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
 
-**Backend**
+**Backend & Cloud**
 <br>
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
 
-**Database**
+**Database & ORM**
 <br>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
 
 **Tools**
 <br>
