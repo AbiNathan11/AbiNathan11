@@ -57,17 +57,16 @@ A full-stack platform for booking and managing home services. [🔗 Live demo](h
 
 ### 🏠 Stayzo — Automated Tenant & Property Intelligence System
 
-`Next.js 15` `TypeScript` `Node.js` `PostgreSQL (Prisma)` `AWS (S3 & RDS)` `Socket.io` `OpenAI API`
+`Next.js 15` `TypeScript` `Node.js` `PostgreSQL (Prisma)` `AWS (S3 & RDS)` `Socket.io` `OpenAI`
 
 An AI-powered property rental platform built for Pearl House Transit Hotel to simplify leasing and eliminate rental fraud.
 
-- **360° Virtual Property Exploration:** Immersive virtual walkthroughs enabling remote tenant inspection
-- **Smart Agreement Hub:** Conversational legal lease generator with bi-lateral digital e-signatures and real-time mobile QR sync
-- **Tenant & Role-Based Portals:** Dedicated dashboard for browsing verified listings, booking visits, and managing digital agreements
-- **AI & Cloud Infrastructure:** Multilingual chat translation (OpenAI), image metadata fraud detection, and cloud hosting via AWS S3 & RDS
-- **Neighborhood Intelligence:** Nearby landmark discovery and environmental noise level analysis via Google Maps & Places API
+- **360° Virtual Tours & Tenant Portal:** Immersive remote property exploration and smart visit scheduling
+- **Smart Agreement Hub:** Digital lease generator with bi-lateral e-signatures and real-time mobile QR sync
+- **AI & Neighborhood Intelligence:** Multilingual chat translation (OpenAI) and nearby landmark discovery (Google Maps API)
 
 ---
+
 
 ### 🚨 Disaster Management System
 
